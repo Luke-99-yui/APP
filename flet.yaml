@@ -1,0 +1,6 @@
+app:
+  name: おばあちゃんの相談室
+  package: com.yourname.obachanapp
+  requirements:
+    - flet
+    - google-generativeai
